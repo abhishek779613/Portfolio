@@ -58,7 +58,6 @@ Personal Information: Update the text in the <section class="home"> and <section
 
 Profile Image: Replace MyProfile.png in the home-img div with your own image, or update the src attribute with a path or URL.
 
-<img id="profile-img" src="MyProfile.png" alt="Abhishek Marathe"/>
 
 Skills: Modify the percentage values (style="width: X%;") within the progress-line span elements in the Skills section.
 
